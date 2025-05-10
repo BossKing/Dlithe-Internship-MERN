@@ -90,7 +90,7 @@ charity/
 
 ### 1. Clone the Repo
 
-- git clone https://github.com/ 
+- git clone https://github.com/BossKing/Dlithe-Internship-MERN.git 
 ## 2. Backend Setup
 
 - cd server
@@ -133,7 +133,7 @@ EMAIL_PASS=your_password
 
 ## 🙋‍♂️ Author
 Sumanth A
-GitHub: https://github.com/ 
+GitHub:(https://github.com/BossKing)
 Email: sumanthap799@gmail.com
 
 
