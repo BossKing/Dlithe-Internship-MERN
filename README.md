@@ -119,7 +119,8 @@ EMAIL_PASS=your_password
 ![donor dashboard](https://github.com/user-attachments/assets/9252aaa0-e5fc-4f8c-a7e2-1d79e72f5742)
 ![ongoing events](https://github.com/user-attachments/assets/7af1efa3-a786-4b44-a27e-d8b697c16399)
 ![Screenshot 2025-05-06 225941](https://github.com/user-attachments/assets/7d430671-4dca-4226-890c-85beae4e7e53)
-![footer   contact form](https://github.com/user-attachments/assets/108c987a-dc87-4fc2-b60b-fb8c7deda176)
+![footer   contact form](![image](https://github.com/user-attachments/assets/47c72de0-8818-4986-a90b-8a977dd986ce)
+)
 
 ## 🧠 Learnings & Outcome
 - Full-stack MERN project development lifecycle.
