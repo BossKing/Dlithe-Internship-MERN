@@ -116,9 +116,8 @@ EMAIL_PASS=your_password
 ![home page](https://github.com/user-attachments/assets/dfca136a-1168-4098-b044-62388fddd617)
 ![admin](https://github.com/user-attachments/assets/d8b2fbb3-e3f4-467b-8d55-ceba925d1ced)
 ![volunteer dashboard](https://github.com/user-attachments/assets/cd966575-80c9-4234-8038-471bfbed04b8)
-![donor dashboard](https://github.com/user-attachments/assets/9252aaa0-e5fc-4f8c-a7e2-1d79e72f5742)
 ![ongoing events](https://github.com/user-attachments/assets/7af1efa3-a786-4b44-a27e-d8b697c16399)
-![Screenshot 2025-05-06 225941](https://github.com/user-attachments/assets/7d430671-4dca-4226-890c-85beae4e7e53)
+
 
 )
 
